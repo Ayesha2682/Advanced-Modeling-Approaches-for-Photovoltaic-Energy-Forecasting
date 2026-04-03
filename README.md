@@ -18,6 +18,16 @@ To achieve this, three complementary frameworks are developed:
 
 ---
 
+## 🤝 Acknowledgment
+
+This work was conducted as part of my MSc research at Mohamed bin Zayed University of Artificial Intelligence (MBZUAI).
+
+## ⚠️ Disclaimer
+
+This repository is provided for research and academic purposes only.
+
+---
+
 ## 📚 Citation
 
 If you use this code, please cite:
@@ -29,11 +39,3 @@ If you use this code, please cite:
   year={2026},
   school={Mohamed bin Zayed University of Artificial Intelligence (MBZUAI)}
 }
-
-## 🤝 Acknowledgment
-
-This work was conducted as part of my MSc research at Mohamed bin Zayed University of Artificial Intelligence (MBZUAI).
-
-## ⚠️ Disclaimer
-
-This repository is provided for research and academic purposes only.
